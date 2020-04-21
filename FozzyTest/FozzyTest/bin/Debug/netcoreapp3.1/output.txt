@@ -1,0 +1,6 @@
+Id = 4, Name = Senior .Net programmer, Salary = 83200
+Id = 5, Name = TeamLead, Salary = 83200
+Id = 6, Name = Project Manager, Salary = 66560
+Id = 3, Name = Middle .Net programmer, Salary = 50000
+Id = 2, Name = Junior .Net programmer, Salary = 25000
+Id = 1, Name = Trainee .Net programmer, Salary = 10000

@@ -1,0 +1,32 @@
+<Employees>
+	<Employee type="1">
+		<id>1</id>
+		<name>Trainee .Net programmer</name>
+		<salary>10000</salary>
+	</Employee>
+	<Employee type="1">
+		<id>2</id>
+		<name>Junior .Net programmer</name>
+		<salary>25000</salary>
+	</Employee>
+	<Employee type="1">
+		<id>3</id>
+		<name>Middle .Net programmer</name>
+		<salary>50000</salary>
+	</Employee>
+	<Employee type="3">
+		<id>4</id>
+		<name>Senior .Net programmer</name>
+		<salary>500</salary>
+	</Employee>
+	<Employee type="2">
+		<id>5</id>
+		<name>TeamLead</name>
+		<salary>500</salary>
+	</Employee>
+	<Employee type="0">
+		<id>6</id>
+		<name>Project Manager</name>
+		<salary>400</salary>
+	</Employee>
+</Employees>
